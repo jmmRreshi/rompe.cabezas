@@ -1,0 +1,16 @@
+header{
+  border: 1px solid black;
+  width: 100%;
+  position: fixed;
+  z-index: 0;
+}
+main {
+  background-color: #ccc;
+  height: 10000px;
+  
+  z-index: 1;
+}
+.nombre {
+  width: 1000px;
+  margin: 0 auto;
+}
